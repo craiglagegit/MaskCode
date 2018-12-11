@@ -13,3 +13,6 @@ The file draw_block_9Oct17.py is the actual code I used to draw a mask containin
 galaxies have Sersic light profiles of various size, brightness, Sersic index,
 ellipticity, and orientation.  A catalog of the objects is generated concurrently
 with the .gds file.  We will be ordering a mask of this type soon.
+
+Acknowledgements:
+This research was supported by DOE grant DE-SC0009999 and NSF/AURA grant N56981C.
